@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"3024 Color Scheme",
+		"Alignment",
+		"AutoFileName",
+		"Clipboard Manager",
+		"ConvertToUTF8",
+		"DocBlockr",
+		"DocBlockr_Python",
+		"Emmet",
+		"FileDiffs",
+		"LiveStyle",
+		"Package Control",
+		"Pretty JSON",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeREPL",
+		"SublimeServer",
+		"TrailingSpaces"
+	]
+}

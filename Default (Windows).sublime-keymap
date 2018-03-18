@@ -1,0 +1,20 @@
+[
+	//剪切板
+	{ "keys": ["ctrl+c"], "command": "clipboard_manager_copy" },
+	{ "keys": ["ctrl+x"], "command": "clipboard_manager_cut" },
+	{ "keys": ["ctrl+v"], "command": "paste_and_indent" },
+	{ "keys": ["ctrl+shift+v"], "command": "clipboard_manager_choose_and_paste" },
+
+	//代码提示 SublimeCodeIntel
+	{"keys": ["alt+d"], "command": "code_intel_auto_complete" },
+	//插入时间
+	{"keys": ["ctrl+shift+d"], "command": "add_current_time"},
+	//在浏览器中打开当前页面
+	{ "keys": ["ctrl+q"], "command": "open_in_browser" },
+	//JSON代码格式化插件
+	{ "keys": ["ctrl+shift+f"], "command": "pretty_json" },
+	//等号对齐
+	{"keys": ["ctrl+alt+f"],"command":"alignment"},
+	//删除多余空格
+	{ "keys": ["ctrl+shift+t"], "command": "delete_trailing_spaces" }
+]
