@@ -1,5 +1,8 @@
 {
-    //在浏览器运行html
-   "cmd": ["C:/Program Files/", "$file"],
-   "selector": "source.html",
+	//在浏览器打开HTML文件
+	"shell_cmd": "start ${file}", 
+    "selector": "text.html",
+   //在浏览器打开文件
+   //"cmd": ["C:/Program Files (x86)/Google/Chrome/Application/chrome.exe", "$file"],
+   //"selector": "source.html"
 }
