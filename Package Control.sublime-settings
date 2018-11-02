@@ -15,12 +15,15 @@
 		"Emmet",
 		"FileDiffs",
 		"LiveStyle",
+		"MarkdownEditing",
+		"MarkdownPreview",
 		"Package Control",
 		"Pretty JSON",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeREPL",
 		"SublimeServer",
-		"TrailingSpaces"
+		"TrailingSpaces",
+		"View In Browser"
 	]
 }

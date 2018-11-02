@@ -1,0 +1,5 @@
+{
+    //在浏览器运行html
+   "cmd": ["C:/Program Files/", "$file"],
+   "selector": "source.html",
+}

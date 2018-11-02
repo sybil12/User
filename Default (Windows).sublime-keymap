@@ -6,7 +6,7 @@
 	{ "keys": ["ctrl+shift+v"], "command": "clipboard_manager_choose_and_paste" },
 
 	//代码提示 SublimeCodeIntel
-	{"keys": ["alt+d"], "command": "code_intel_auto_complete" },
+	{"keys": ["ctrl+shift+d"], "command": "code_intel_auto_complete" },
 	//插入时间
 	{"keys": ["ctrl+shift+d"], "command": "add_current_time"},
 	//在浏览器中打开当前页面
@@ -16,5 +16,13 @@
 	//等号对齐
 	{"keys": ["ctrl+alt+f"],"command":"alignment"},
 	//删除多余空格
-	{ "keys": ["ctrl+shift+t"], "command": "delete_trailing_spaces" }
+	{ "keys": ["ctrl+shift+t"], "command": "delete_trailing_spaces" },
+//代码补全快捷键
+{"keys": ["alt+d"], "command": "code_intel_auto_complete" },
+
+//在浏览器中打开html文件
+{ "keys": ["ctrl+alt+b"], "command": "open_in_browser" },
+
+//在浏览器中预览markdown文件
+{ "keys": ["alt+m"], "command": "markdown_preview", "args": {"target": "browser", "parser":"markdown"}  }
 ]
